@@ -19,10 +19,10 @@ We had the chance to develop a medical imaging analysis platform in just two wee
 ## 📷 Project Photos
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
   <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
-    <img src="https://github.com/user-attachments/assets/740d8e62-fecd-4f47-940c-dc24b0f6a83c" width="500px" height="312.5px" alt="Image 1">
-    <img src="https://github.com/user-attachments/assets/d214bf9a-8342-4371-8183-f2dbff9c39eb" width="500px" height="312.5px" alt="Image 2">
-    <img src="https://github.com/user-attachments/assets/221e9976-44e7-40ce-9214-b30e4a9e42c6" width="500px" height="312.5px" alt="Image 3">
-    <img src="https://github.com/user-attachments/assets/b6ebc7b8-ae33-4cda-82a1-8ce6debe5a46" width="500px" height="312.5px" alt="Image 4">
+    <img src="https://github.com/user-attachments/assets/42fc7c2c-d266-42c5-96b3-9f128999797c" width="500px" height="312.5px" alt="Image 1">
+    <img src="https://github.com/user-attachments/assets/b8f8e10d-c60a-4c47-b582-d24bf2b55c5a" width="500px" height="312.5px" alt="Image 2">
+    <img src="https://github.com/user-attachments/assets/95acf98e-029c-4dc3-9b0b-7119d08bfb5a" width="500px" height="312.5px" alt="Image 3">
+    <img src="https://github.com/user-attachments/assets/fa3b860b-bd0c-4d25-b91c-57e40c29f95a" width="500px" height="312.5px" alt="Image 4">
   </div>
 </div>
 
